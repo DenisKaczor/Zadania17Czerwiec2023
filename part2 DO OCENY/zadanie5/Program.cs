@@ -16,7 +16,7 @@ namespace zadanie5
 			Console.WriteLine("obliczymy działanie y=x^n");
 			Console.WriteLine("podaj liczbę x");
 			int x = int.Parse(Console.ReadLine());
-			while(x <= 0)
+			while (x <= 0 || x > 9)
 			{
 				Console.WriteLine("podaj liczbę x");
 				x = int.Parse(Console.ReadLine());
