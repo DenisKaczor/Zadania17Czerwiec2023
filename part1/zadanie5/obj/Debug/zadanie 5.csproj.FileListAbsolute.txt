@@ -1,0 +1,8 @@
+E:\SZKOŁA\PP\cwiczenia17-06\zadanie 5\bin\Debug\zadanie 5.exe.config
+E:\SZKOŁA\PP\cwiczenia17-06\zadanie 5\bin\Debug\zadanie 5.exe
+E:\SZKOŁA\PP\cwiczenia17-06\zadanie 5\bin\Debug\zadanie 5.pdb
+E:\SZKOŁA\PP\cwiczenia17-06\zadanie 5\obj\Debug\zadanie 5.csproj.AssemblyReference.cache
+E:\SZKOŁA\PP\cwiczenia17-06\zadanie 5\obj\Debug\zadanie 5.csproj.SuggestedBindingRedirects.cache
+E:\SZKOŁA\PP\cwiczenia17-06\zadanie 5\obj\Debug\zadanie 5.csproj.CoreCompileInputs.cache
+E:\SZKOŁA\PP\cwiczenia17-06\zadanie 5\obj\Debug\zadanie 5.exe
+E:\SZKOŁA\PP\cwiczenia17-06\zadanie 5\obj\Debug\zadanie 5.pdb
