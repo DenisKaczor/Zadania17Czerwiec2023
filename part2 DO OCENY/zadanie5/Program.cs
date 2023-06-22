@@ -34,13 +34,20 @@ namespace zadanie5
 			int y = x;
 
 			//program
-			for (int i = 0; i < n-1; i++) 
-			{
-				wynikMnozenia = y;
-				for(int j = 0; j < x-1; j++) 
+			if (n > 0) 
+			{ 
+				for (int i = 0; i < n-1; i++) 
 				{
-					y += wynikMnozenia;
+					wynikMnozenia = y;
+					for(int j = 0; j < x-1; j++) 
+					{
+						y += wynikMnozenia;
+					}
 				}
+			}
+			else
+			{
+				y = 1;
 			}
 
 			//wynik&porównanie
